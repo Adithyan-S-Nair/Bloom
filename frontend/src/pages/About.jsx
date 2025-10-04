@@ -12,7 +12,7 @@ export default function About() {
 
       <h3 style={{ marginTop: "30px" }}>✨ Goals</h3>
       <ul>
-        <li>Educate people about climate-driven bloom ****** shifts</li>
+        <li>Educate people about climate-driven bloom  shifts</li>
         <li>Make environmental data engaging and interactive</li>
         <li>Provide a global map for exploring seasonal blooms</li>
       </ul>
